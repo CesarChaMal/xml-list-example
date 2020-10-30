@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<main label="test">
+	<list>
+		<element id="1" code="114" location="243"/>
+		<element id="2" code="79" location="61"/>
+	</list>
+</main>
